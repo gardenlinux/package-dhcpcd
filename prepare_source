@@ -1,5 +1,4 @@
-version_orig=10.3.2-4
+version_orig=10.3.2-6
 version="1:$version_orig"
-version_suffix=gl0~bp2150
 
 git_src -b "debian/1%$version_orig" "https://salsa.debian.org/debian/dhcpcd.git"
